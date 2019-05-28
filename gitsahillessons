@@ -1,0 +1,73 @@
+what is Git?
+Git is basically a version control system.(VCS) for software development.
+DESIGNED to coordinate work among programmers
+
+SO basically like in google drive we store our things.
+we store our software or prgrams in Git repository. 
+Each project is stored in a git repo 
+
+So supposhe you are a backend developer and i am a front end developer.
+we both have to work simultaneasouly . RIght? You give me the models and I show them in the front end.
+so this coordinating work is solved by git.
+
+If i have made any changes in a program. I "push" it to main repo. 
+If i want to see the changes made by you I "pull" it from main repo.
+
+First thing is lets pull a repository 
+okay?
+
+SO what is cloning. Basicallyif you want to someone's prject or you want to download a repo you write comman git clone "address" okay 
+restart karogi?Okkk
+
+I have made a git repo in my accoutn for you.
+Creating a git repo is not too much of a thing.
+There is green color button at the git website.
+click that and give name you can create the repo.
+
+Now.
+I have opened the git repo for you in mozila. Clone it in desktop.
+okay?
+
+listen why did you create a directory last time. I thought alll the git lessons i wil keep in a folder. Nothing special xDohhhhhhhhhhhh
+
+Clone kana aa gaya. Now we will add some files to repo. Usually the process I follow is.
+1. Create a Repo.
+2. Clone on desktop
+3. Keep pushing as you progress.
+
+WE will add some already built programms to the repo okay?Yes
+Copying the files to the folder doesn't mean it will get copied to repo.
+you need to perform some commands
+if you made some changes the process is 
+1. git add . 
+2. git commit -m "MEssage" , bascially, this message tells the other users what changes you have committed 
+3. git push
+
+got it?what does message meanokkk got it?yesss now you add another file to git repo. and give a suitable commit message.
+when you do git push
+it prompts for username and password
+usrrname : jainsahil1997
+password jain123#  
+okay?okk d Happy?Yessssssss
+Thats all git you should nknow for now
+
+
+
+
+
+
+
+
+
+
+
+
+
+change the ubuntu okk i will do it
+
+
+Rima lsten? Can you show me what anibhav talks to you Nonsense things dnekhte 
+
+
+
+
